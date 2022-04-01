@@ -1,0 +1,38 @@
+{
+  "name": "@stdlib/math-base-special-binomcoefln",
+  "version": "0.0.0",
+  "description": "Compute the natural logarithm of the binomial coefficient.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-base-special-binomcoefln.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "special functions",
+    "special",
+    "function",
+    "binomial",
+    "combinatorics",
+    "choose",
+    "factorial",
+    "fact",
+    "integer",
+    "number",
+    "log",
+    "logarithm"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
