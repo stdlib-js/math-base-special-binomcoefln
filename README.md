@@ -93,6 +93,11 @@ The [binomial coefficient][binomial-coefficient] can be generalized to negative 
 ## Usage
 
 ```javascript
+import binomcoefln from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-binomcoefln@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-binomcoefln/tags). For example,
+
+```javascript
 import binomcoefln from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-binomcoefln@v0.1.0-esm/index.mjs';
 ```
 
@@ -161,7 +166,7 @@ v = binomcoefln( 5.5, 2 );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
-import binomcoefln from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-binomcoefln@v0.1.0-esm/index.mjs';
+import binomcoefln from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-binomcoefln@esm/index.mjs';
 
 var n;
 var k;
