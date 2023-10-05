@@ -29,9 +29,9 @@ var binomcoefln = require( './../../dist' );
 
 // FIXTURES //
 
-var arg1 = require( './../..xtures/r/arg1.json' );
-var arg2 = require( './../..xtures/r/arg2.json' );
-var expected = require( './../..xtures/r/expected.json' );
+var arg1 = require( './../fixtures/r/arg1.json' );
+var arg2 = require( './../fixtures/r/arg2.json' );
+var expected = require( './../fixtures/r/expected.json' );
 var i;
 var v;
 for ( i = 0; i < expected.length; i++ ) {
