@@ -93,7 +93,7 @@ The [binomial coefficient][binomial-coefficient] can be generalized to negative 
 ## Usage
 
 ```javascript
-import binomcoefln from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-binomcoefln@esm/index.mjs';
+import binomcoefln from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-binomcoefln@v0.2.0-esm/index.mjs';
 ```
 
 #### binomcoefln( n, k )
@@ -161,7 +161,7 @@ v = binomcoefln( 5.5, 2 );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
-import binomcoefln from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-binomcoefln@esm/index.mjs';
+import binomcoefln from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-binomcoefln@v0.2.0-esm/index.mjs';
 
 var n;
 var k;
