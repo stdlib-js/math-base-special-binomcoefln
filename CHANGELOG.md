@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`0258e19`](https://github.com/stdlib-js/stdlib/commit/0258e19861efda8129308f2caae486b35a249edd) - **chore:** update package meta data [(#2773)](https://github.com/stdlib-js/stdlib/pull/2773) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`5b184b6`](https://github.com/stdlib-js/stdlib/commit/5b184b681a3d1d5c3fea30b9d8f4630c86eb44af) - **feat:** add C implementation for `math/base/special/binomcoefln` _(by Gunj Joshi, Philipp Burckhardt)_
 
 </details>
