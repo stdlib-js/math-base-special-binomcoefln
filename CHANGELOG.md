@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-24)
+## Unreleased (2025-08-22)
 
 <section class="features">
 
@@ -22,6 +22,8 @@
 
 <details>
 
+-   [`5519603`](https://github.com/stdlib-js/stdlib/commit/551960360bdcf61a473e5844ce23c7c9f7717168) - **docs:** fix example code and return annotation values _(by Philipp Burckhardt)_
+-   [`7add020`](https://github.com/stdlib-js/stdlib/commit/7add0201c13e56a0381926ccfd4073c84eaf2ed4) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`edef1e2`](https://github.com/stdlib-js/stdlib/commit/edef1e298a551ed453c4edc3d769746baf5dbde1) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`5a5ac9d`](https://github.com/stdlib-js/stdlib/commit/5a5ac9dafe89d2980d079ae6c074c04be445c7b8) - **docs:** fix return value interpolation _(by Athan Reines)_
 -   [`630ddb7`](https://github.com/stdlib-js/stdlib/commit/630ddb777824b5f6e501fda6dadf4ce41dccb964) - **test:** replace equal with strictEqual _(by Karan Anand)_
