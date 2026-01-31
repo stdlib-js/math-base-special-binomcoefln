@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2025-08-24)
+## 0.3.0 (2026-01-31)
 
 <section class="features">
 
@@ -40,7 +40,7 @@
 -   [`edef1e2`](https://github.com/stdlib-js/stdlib/commit/edef1e298a551ed453c4edc3d769746baf5dbde1) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`5a5ac9d`](https://github.com/stdlib-js/stdlib/commit/5a5ac9dafe89d2980d079ae6c074c04be445c7b8) - **docs:** fix return value interpolation _(by Athan Reines)_
 -   [`630ddb7`](https://github.com/stdlib-js/stdlib/commit/630ddb777824b5f6e501fda6dadf4ce41dccb964) - **test:** replace equal with strictEqual _(by Karan Anand)_
--   [`75cbf89`](https://github.com/stdlib-js/stdlib/commit/75cbf899216dadede64e77994fe058932facc51b) - **chore:** replace manual `for` loop in examples [(#6308)](https://github.com/stdlib-js/stdlib/pull/6308) _(by Harsh, stdlib-bot)_
+-   [`75cbf89`](https://github.com/stdlib-js/stdlib/commit/75cbf899216dadede64e77994fe058932facc51b) - **chore:** replace manual `for` loop in examples [(#6308)](https://github.com/stdlib-js/stdlib/pull/6308) _(by Harsh Yadav, stdlib-bot)_
 -   [`0e2afee`](https://github.com/stdlib-js/stdlib/commit/0e2afeeeb0bf31c508ed943c5f0f6fb558a26381) - **bench:** refactor random value generation [(#5374)](https://github.com/stdlib-js/stdlib/pull/5374) _(by Saurabh Singh, Athan Reines)_
 -   [`01126b1`](https://github.com/stdlib-js/stdlib/commit/01126b1a0519c87778b802efd352d3117028bb88) - **style:** compare `n` with `integer`, not a `double` in `math/base/special/binomcoefln` [(#2775)](https://github.com/stdlib-js/stdlib/pull/2775 ) _(by Gunj Joshi)_
 -   [`0258e19`](https://github.com/stdlib-js/stdlib/commit/0258e19861efda8129308f2caae486b35a249edd) - **chore:** update package meta data [(#2773)](https://github.com/stdlib-js/stdlib/pull/2773) _(by stdlib-bot, Philipp Burckhardt)_
@@ -60,7 +60,7 @@ A total of 6 people contributed to this release. Thank you to the following cont
 
 -   Athan Reines
 -   Gunj Joshi
--   Harsh
+-   Harsh Yadav
 -   Karan Anand
 -   Philipp Burckhardt
 -   Saurabh Singh
